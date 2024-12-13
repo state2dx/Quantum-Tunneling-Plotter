@@ -1,4 +1,4 @@
-**Plotting Graphs for a Particle Tunneling Through a potential**
+**Particle Tunneling Through a Potential**
 ============
 
 **Theory**
